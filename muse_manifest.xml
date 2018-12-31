@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.liuconsulting.net" resolutions="1x" timestamp="1542764769805">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.liuconsulting.net" resolutions="1x" timestamp="1546281890691">
   <folder name="css">
     <file name="site_global.css" crc="4271355408"/>
-    <file name="master_a-master.css" crc="4253668388" ref="contact:index:business"/>
-    <file name="nomq_preview_master_a-master.css" crc="203893040" ref="contact:index:business"/>
-    <file name="contact.css" crc="138825697" ref="contact"/>
-    <file name="nomq_contact.css" crc="4100928545" ref="contact"/>
-    <file name="index.css" crc="499980199" ref="index"/>
-    <file name="nomq_index.css" crc="4202487806" ref="index"/>
-    <file name="business.css" crc="3876143836" ref="business"/>
-    <file name="nomq_business.css" crc="477746816" ref="business"/>
+    <file name="master_a-master.css" crc="145977327" ref="contact:index:business"/>
+    <file name="nomq_preview_master_a-master.css" crc="3937669196" ref="contact:index:business"/>
+    <file name="contact.css" crc="195556205" ref="contact"/>
+    <file name="nomq_contact.css" crc="110609891" ref="contact"/>
+    <file name="index.css" crc="3826899719" ref="index"/>
+    <file name="nomq_index.css" crc="3874621781" ref="index"/>
+    <file name="business.css" crc="301232886" ref="business"/>
+    <file name="nomq_business.css" crc="1644206" ref="business"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:business:contact"/>
@@ -36,16 +36,10 @@
     <file name="img568x51.jpg" crc="140059452" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img768x51.jpg" crc="239098854" seo="true" ref="business">
+    <file name="img02-crop-u9452.jpg" crc="3817538325" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img9-crop-u1033.jpg" crc="22832538" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img368x51.jpg" crc="4212783443" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img668x51.jpg" crc="208422600" seo="true" ref="business">
+    <file name="img04-crop-u9514.jpg" crc="133007611" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
     <file name="img168x51.jpg" crc="3768523348" seo="true" ref="business">
@@ -60,8 +54,46 @@
     <file name="img4-crop-u938.jpg" crc="492014346" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
+    <file name="img0168x51.jpg" crc="418305137" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img0368x51.jpg" crc="4187686316" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u9545.jpg" crc="281419214" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img768x51.jpg" crc="239098854" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img9-crop-u1033.jpg" crc="22832538" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img368x51.jpg" crc="4212783443" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img668x51.jpg" crc="208422600" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
     <file name="img5.jpg" crc="422163169" seo="true" ref="business">
       <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img01.jpg" crc="18895433" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img02-crop-u9443.jpg" crc="3953613399" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img03.jpg" crc="4076581543" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img04-crop-u9505.jpg" crc="110262700" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u9536.jpg" crc="480440060" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
     <file name="img1.jpg" crc="155871449" seo="true" ref="business">
@@ -98,16 +130,10 @@
     <file name="img552x39.jpg" crc="3885376296" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img752x39.jpg" crc="350830638" seo="true" ref="business">
+    <file name="img02-crop-u94522.jpg" crc="3959059006" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img9-crop-u10332.jpg" crc="3802832996" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img352x39.jpg" crc="164177143" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img652x39.jpg" crc="127401561" seo="true" ref="business">
+    <file name="img04-crop-u95142.jpg" crc="517026787" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
     <file name="img152x39.jpg" crc="3785701906" seo="true" ref="business">
@@ -122,6 +148,36 @@
     <file name="img4-crop-u9382.jpg" crc="13737530" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
+    <file name="img0152x39.jpg" crc="4039060272" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img0352x39.jpg" crc="4220092975" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u95452.jpg" crc="207410283" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img752x39.jpg" crc="350830638" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img9-crop-u10332.jpg" crc="3802832996" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img352x39.jpg" crc="164177143" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img652x39.jpg" crc="127401561" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img02-crop-u94432.jpg" crc="3786657204" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img04-crop-u95052.jpg" crc="3903095169" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u95362.jpg" crc="526870135" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
     <file name="img9-crop-u10272.jpg" crc="308792851" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
@@ -131,16 +187,10 @@
     <file name="img543x32.jpg" crc="280294216" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img743x32.jpg" crc="197501190" seo="true" ref="business">
+    <file name="img02-crop-u94523.jpg" crc="466322570" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img9-crop-u10333.jpg" crc="3983086624" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img343x32.jpg" crc="4127178111" seo="true" ref="business">
-      <caption webpage="business" alt=""/>
-    </file>
-    <file name="img643x32.jpg" crc="3924270022" seo="true" ref="business">
+    <file name="img04-crop-u95143.jpg" crc="4056133619" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
     <file name="img143x32.jpg" crc="4236095153" seo="true" ref="business">
@@ -155,7 +205,43 @@
     <file name="img4-crop-u9383.jpg" crc="4051455787" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
+    <file name="img0143x32.jpg" crc="530102473" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img0343x32.jpg" crc="277343816" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u95453.jpg" crc="421167362" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img743x32.jpg" crc="197501190" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img9-crop-u10333.jpg" crc="3983086624" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img343x32.jpg" crc="4127178111" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img643x32.jpg" crc="3924270022" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
     <file name="img5340x255.jpg" crc="4197646289" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img01340x255.jpg" crc="503987734" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img02-crop-u94433.jpg" crc="3980657294" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img03340x255.jpg" crc="4265604364" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img04-crop-u95053.jpg" crc="104572365" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u95363.jpg" crc="103681499" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
     <file name="img1340x255.jpg" crc="514304770" seo="true" ref="business">
@@ -182,62 +268,92 @@
     <file name="img6340x255.jpg" crc="4128146892" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img533x25.jpg" crc="123717194" seo="true" ref="business">
+    <file name="img538x29.jpg" crc="279278209" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img733x25.jpg" crc="397498468" seo="true" ref="business">
+    <file name="img02-crop-u94524.jpg" crc="200247729" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img9-crop-u10334.jpg" crc="461470307" seo="true" ref="business">
+    <file name="img04-crop-u95144.jpg" crc="4164015773" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img333x25.jpg" crc="239438471" seo="true" ref="business">
+    <file name="img138x29.jpg" crc="428402518" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img633x25.jpg" crc="16973621" seo="true" ref="business">
+    <file name="img838x29.jpg" crc="401675134" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img133x25.jpg" crc="3958789322" seo="true" ref="business">
+    <file name="img238x29.jpg" crc="3801975618" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img833x25.jpg" crc="4290999911" seo="true" ref="business">
+    <file name="img4-crop-u9384.jpg" crc="4034495377" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img233x25.jpg" crc="307631495" seo="true" ref="business">
+    <file name="img0138x29.jpg" crc="4035383901" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img4-crop-u9384.jpg" crc="4032782881" seo="true" ref="business">
+    <file name="img0338x29.jpg" crc="3968144961" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img5258x194.jpg" crc="106083210" seo="true" ref="business">
+    <file name="img05-crop-u95454.jpg" crc="4202322687" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img1258x194.jpg" crc="4047826073" seo="true" ref="business">
+    <file name="img738x29.jpg" crc="4080408431" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img7258x194.jpg" crc="286892947" seo="true" ref="business">
+    <file name="img9-crop-u10334.jpg" crc="432289836" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img8258x194.jpg" crc="4228809577" seo="true" ref="business">
+    <file name="img338x29.jpg" crc="523191833" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img9-crop-u10274.jpg" crc="3914694837" seo="true" ref="business">
+    <file name="img638x29.jpg" crc="81089121" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img2258x194.jpg" crc="3979894870" seo="true" ref="business">
+    <file name="img5300x225.jpg" crc="4118503854" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img3258x194.jpg" crc="4118888976" seo="true" ref="business">
+    <file name="img01300x225.jpg" crc="4131505038" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img4-crop-u9324.jpg" crc="3971406099" seo="true" ref="business">
+    <file name="img02-crop-u94434.jpg" crc="452743244" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
-    <file name="img6258x194.jpg" crc="162184838" seo="true" ref="business">
+    <file name="img03300x225.jpg" crc="376576900" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img04-crop-u95054.jpg" crc="378793083" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img05-crop-u95364.jpg" crc="190725646" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img1300x225.jpg" crc="4016242543" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img7300x225.jpg" crc="3960787463" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img8300x225.jpg" crc="3950300477" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img9-crop-u10274.jpg" crc="356091622" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img2300x225.jpg" crc="184659660" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img3300x225.jpg" crc="4263626070" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img4-crop-u9324.jpg" crc="3854382176" seo="true" ref="business">
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="img6300x225.jpg" crc="3865564957" seo="true" ref="business">
       <caption webpage="business" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3783323151" seo="true" mt="1542764686996" redirect="true"/>
-  <file name="business.html" crc="65764789" seo="true" mt="1542764686996" redirect="true"/>
-  <file name="contact.html" crc="3940974256" seo="true" mt="1542764686996" redirect="true"/>
+  <file name="index.html" crc="3856291642" seo="true" mt="1546281303585" redirect="true"/>
+  <file name="business.html" crc="190363372" seo="true" mt="1546281526900" redirect="true"/>
+  <file name="contact.html" crc="302242626" seo="true" mt="1546281107644" redirect="true"/>
 </manifest>
