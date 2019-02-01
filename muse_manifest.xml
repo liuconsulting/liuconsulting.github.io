@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.liuconsulting.net" resolutions="1x" timestamp="1546281890691">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.liuconsulting.net" resolutions="1x" timestamp="1549021678552">
   <folder name="css">
-    <file name="site_global.css" crc="4271355408"/>
-    <file name="master_a-master.css" crc="145977327" ref="contact:index:business"/>
-    <file name="nomq_preview_master_a-master.css" crc="3937669196" ref="contact:index:business"/>
-    <file name="contact.css" crc="195556205" ref="contact"/>
+    <file name="site_global.css" crc="411008472"/>
+    <file name="master_a-master.css" crc="3878062036" ref="business:index:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="274474383" ref="business:index:contact"/>
+    <file name="business.css" crc="157621396" ref="business"/>
+    <file name="nomq_business.css" crc="3925805527" ref="business"/>
+    <file name="index.css" crc="4006820996" ref="index"/>
+    <file name="nomq_index.css" crc="3951280238" ref="index"/>
+    <file name="contact.css" crc="355945567" ref="contact"/>
     <file name="nomq_contact.css" crc="110609891" ref="contact"/>
-    <file name="index.css" crc="3826899719" ref="index"/>
-    <file name="nomq_index.css" crc="3874621781" ref="index"/>
-    <file name="business.css" crc="301232886" ref="business"/>
-    <file name="nomq_business.css" crc="1644206" ref="business"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:business:contact"/>
@@ -353,7 +353,7 @@
       <caption webpage="business" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3856291642" seo="true" mt="1546281303585" redirect="true"/>
-  <file name="business.html" crc="190363372" seo="true" mt="1546281526900" redirect="true"/>
-  <file name="contact.html" crc="302242626" seo="true" mt="1546281107644" redirect="true"/>
+  <file name="index.html" crc="84992465" seo="true" mt="1549021532096" redirect="true"/>
+  <file name="business.html" crc="368076499" seo="true" mt="1549021354272" redirect="true"/>
+  <file name="contact.html" crc="4114725145" seo="true" mt="1549021354272" redirect="true"/>
 </manifest>
